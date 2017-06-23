@@ -5,6 +5,6 @@ DS1621 Temperature Sensor w/ OLED Display
 
 # PARTS:
 
-Arduino Nano
-DS1621 Digital Thermometer and Thermostat
-0.96" Inch i2c OLED LCD LED Module (Resolution: 128X64 | SSD1306 Driver IC)
+- Arduino Nano
+- DS1621 Digital Thermometer and Thermostat
+- 0.96" Inch i2c OLED LCD LED Module (Resolution: 128X64 | SSD1306 Driver IC)
