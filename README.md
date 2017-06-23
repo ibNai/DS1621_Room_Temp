@@ -1,6 +1,8 @@
 # DS1621 i2c Temp Sensor
 DS1621 Temperature Sensor w/ OLED Display
 
+It's hot in ATL! Needed a quick temperature gauge...
+
 ![DS1621_i2c_nano_OLED](/DS1621_i2c_nano_OLED.JPG?raw=true "# DS1621 i2c Temp Sensor")
 
 # PARTS:
